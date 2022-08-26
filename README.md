@@ -9,3 +9,21 @@ LilyPond is a free and open-source music notation system. With LilyPond, you can
 - You can learn more about LilyPond at <http://lilypond.org/>
 - For a more thorough introduction, look at the [Learning Manual](http://lilypond.org/doc/v2.18/Documentation/learning/index.html).
 - For over 2000 free scores in LilyPond format, check out [Mutopia](https://www.mutopiaproject.org/).
+
+## Notating with LilyPond
+
+Step 1: [Correct the melody](https://github.com/Zi-Tao/notating-with-lilypond/pull/1)
+
+Step 2: [Change a rhythm](https://github.com/Zi-Tao/notating-with-lilypond/pull/1)
+
+Step 3: [Change the time signature](https://github.com/Zi-Tao/notating-with-lilypond/pull/1)
+
+Step 4: [Create a chord](https://github.com/Zi-Tao/notating-with-lilypond/pull/1)
+
+Step 5: [Change the key signature](https://github.com/Zi-Tao/notating-with-lilypond/pull/1)
+
+Step 6: [Add an accidental](https://github.com/Zi-Tao/notating-with-lilypond/pull/1)
+
+Step 7: [Add a dynamic marking](https://github.com/Zi-Tao/notating-with-lilypond/pull/1)
+
+Step 8: [Approve and merge](https://github.com/Zi-Tao/notating-with-lilypond/pull/1)
