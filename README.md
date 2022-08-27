@@ -10,6 +10,8 @@ LilyPond is a free and open-source music notation system. With LilyPond, you can
 - For a more thorough introduction, look at the [Learning Manual](http://lilypond.org/doc/v2.18/Documentation/learning/index.html).
 - For over 2000 free scores in LilyPond format, check out [Mutopia](https://www.mutopiaproject.org/).
 
+<hr/>
+
 ## Notating with LilyPond
 
 Step 1: [Correct the melody](https://github.com/Zi-Tao/notating-with-lilypond/pull/1)
